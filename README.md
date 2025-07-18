@@ -8,7 +8,7 @@
 
 - 💻 **Linguagens**: PHP, JavaScript  
 - 🌐 **Web**: HTML5, CSS3  
-- 🎨 **Frameworks**: Bootstrap  
+- 🎨 **Frameworks**: Bootstrap 5 
 - 🛠️ **Versionamento**: Git e GitHub  
 
 ---
@@ -18,13 +18,6 @@
 - ✉️ E-mail: lucasvini269@gmail.com  
 - 💼 LinkedIn: [Lucas Vinicius dos Santos Silva](https://linkedin.com/in/lucas-vinicius-dos-santos-silva-87a84430b)
 
----
-
-### 📌 Repositórios em destaque
-
-Dê uma olhada nos projetos abaixo e fique à vontade para deixar uma ⭐ se gostar de algum!
-
----
 
 <p align="center">
   Obrigado por visitar meu perfil! 😊
