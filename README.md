@@ -4,14 +4,6 @@
   Técnico em Informática • Desenvolvedor PHP & JavaScript
 </p>
 
----
-
-### 🧑‍💼 Sobre mim
-
-Sou técnico em informática com foco em desenvolvimento web, utilizando tecnologias modernas para criar soluções eficientes e funcionais. Tenho experiência prática em PHP e JavaScript, com domínio em HTML5, CSS3 e frameworks que facilitam o desenvolvimento como o Bootstrap.
-
----
-
 ### 🚀 Tecnologias e Ferramentas
 
 - 💻 **Linguagens**: PHP, JavaScript  
@@ -24,7 +16,7 @@ Sou técnico em informática com foco em desenvolvimento web, utilizando tecnolo
 ### 📫 Contato
 
 - ✉️ E-mail: lucasvini269@gmail.com  
-- 💼 LinkedIn: [Lucas Vinicius dos Santos Silva](https://linkedin.com/in/seuusuario)
+- 💼 LinkedIn: [Lucas Vinicius dos Santos Silva](https://linkedin.com/in/lucas-vinicius-dos-santos-silva-87a84430b)
 
 ---
 
