@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center"> Bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
   Técnico em Informática • Desenvolvedor PHP & JavaScript
@@ -9,7 +9,7 @@
 - 💻 **Linguagens**: PHP, JavaScript  
 - 🌐 **Web**: HTML5, CSS3  
 - 🎨 **Frameworks**: Bootstrap 5 
-- 🛠️ **Versionamento**: Git e GitHub  
+- 🛠️ **Versionamento**: Git & GitHub  
 
 ---
 
