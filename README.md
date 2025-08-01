@@ -6,7 +6,7 @@
 
 ### 🚀 Tecnologias e Ferramentas
 
-- 💻 **Linguagens**: PHP, JavaScript  
+- 💻 **Linguagens**: PHP (POO), SQL & JavaScript  
 - 🌐 **Web**: HTML5, CSS3  
 - 🎨 **Frameworks**: Bootstrap 5 
 - 🛠️ **Versionamento**: Git & GitHub  
