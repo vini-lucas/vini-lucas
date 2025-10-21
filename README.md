@@ -1,15 +1,15 @@
 <h1 align="center"> Bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
-  Técnico em Informática • Desenvolvedor PHP & JavaScript
+  Técnico em Informática • Desenvolvedor PHP, Laravel & JavaScript
 </p>
 
 ### 🚀 Tecnologias e Ferramentas
 
 - 💻 **Linguagens**: PHP (POO), SQL & JavaScript  
 - 🌐 **Web**: HTML5, CSS3  
-- 🎨 **Frameworks**: Bootstrap 5 
-- 🛠️ **Versionamento**: Git & GitHub  
+- 🎨 **Frameworks**: Bootstrap 5, Tailwind CSS & Laravel 12
+- 🛠️ **Versionamento**: Docker, Git & GitHub  
 
 ---
 
