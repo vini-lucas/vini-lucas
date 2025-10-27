@@ -2,17 +2,21 @@
   Técnico em Informática • Desenvolvedor PHP, Laravel & JavaScript
 </p>
 
-### 🚀 Tecnologias e Ferramentas
+```php
+const Tecnologias&Ferramentas = [
 
+'Linguagens'   => 'PHP (POO), SQL & JavaScript',
+'Web'          => 'HTML5, CSS3',
+'Frameworks'   => 'Bootstrap 5, Tailwind CSS & Laravel 12',
+'Versionamento'=> 'Docker & Git'
 
-- 💻 **Linguagens**: PHP (POO), SQL & JavaScript  
-- 🌐 **Web**: HTML5, CSS3  
-- 🎨 **Frameworks**: Bootstrap 5, Tailwind CSS & Laravel 12
-- 🛠️ **Versionamento**: Docker & Git  
+];
 
 ---
 
-### 📫 Contato
+const Contato = [
 
-- ✉️ E-mail: lucasvini269@gmail.com  
-- 💼 LinkedIn: [Lucas Vinicius dos Santos Silva](https://linkedin.com/in/lucas-vinicius-dos-santos-silva-87a84430b)
+'E-mail'   => 'lucasvini269@gmail.com',  
+'LinkedIn' => '[Lucas Vinicius dos Santos Silva](https://linkedin.com/in/lucas-vinicius-dos-santos-silva-87a84430b)'
+
+];
