@@ -1,5 +1,5 @@
 <p align="center">
-  Técnico em Informática • Desenvolvedor PHP, Laravel & JavaScript
+  Técnico em Informática • Desenvolvedor PHP, Python, Java & JavaScript
 </p>
 
 ```php
