@@ -5,7 +5,7 @@
 ```php
 const TechnologiesAndTools = [
 
-'Languages'    => ['PHP', 'SQL', 'JavaScript'],
+'Languages'    => ['PHP', 'SQL', 'JavaScript', 'Python', 'Java'],
 'Web'          => ['HTML5', 'CSS3'],
 'Frameworks'   => ['Bootstrap 5', 'Tailwind CSS', 'Laravel 12'],
 'Versioning'   => ['Docker', 'Git']
